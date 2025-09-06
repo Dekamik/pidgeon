@@ -1,0 +1,22 @@
+# Web scraping framework
+scrapy>=2.11.0
+
+# Data analysis and manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Item loading and data processing
+itemloaders>=1.1.0
+
+# Additional utilities
+python-dateutil>=2.8.0
+
+# Development dependencies (optional, for development setup)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# flake8>=6.0.0
+# black>=23.0.0
+
+# Optional: For better CSV handling
+openpyxl>=3.1.0
+
